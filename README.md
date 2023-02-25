@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @RicardoTizzano
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-RicardoTizzano/RicardoTizzano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hola! Mi nombre es Ricardo Tizzano y desarrollo aplicaciones desde hace más de 40 años.
+Siempre interesado en nuevos lenguajes, librerias y demás que aparecen en el mercado.
+Apasionado del desarrollo de juegos y no apasionado de jugarlos. Cosas de la vida.
